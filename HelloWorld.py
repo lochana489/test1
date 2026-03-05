@@ -1,5 +1,3 @@
 
-i = 5
-for i in range:
+for i in range(5):
     print("Hello World")
-    i=i-1
